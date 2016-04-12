@@ -15,14 +15,20 @@ is very good at generating relevant labels automatically from nothing more then 
 with high accuracy.
 
 ![Example 1 Sunset](gv_example_1.png?raw=true)
+_Photo by Asmo Soinio_
 
 ![Example 2 Dog](gv_example_2.png?raw=true)
+_Photo by Asmo Soinio_
 
 ![Example 3 A Sign with Text](gv_example_3.png?raw=true)
+_Photo by Asmo Soinio_
 
 ![Example 4 Snowboarding](gv_example_4.png?raw=true)
+_Photo by Juho Särkilä_
 
 ![Example 5 Scuba Diving](gv_example_5.png?raw=true)
+_Photo by Genie Ranada-Babista_
+
 
 # Prerequisites
 
