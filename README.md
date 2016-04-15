@@ -56,6 +56,17 @@ Feel free to rename the fields to your liking, and write descriptions. The resul
 
 ![GoogleVision metadata group](gv_metadata_group.png?raw=true)
 
+After these steps in the Metadata Manager, permissions to access this metadata group must be added to
+the *Admin* user group, and any others that should be able to ingest images for analysis:
+
+1. Open *Admin > Users and Groups > All Groups*
+1. Select the group named *Admin*
+1. Select tab *Metadata Groups*
+1. Select *GoogleVision* from *Available Metadata Groups* and click arrow to add it to *Chosen Metadata Groups*
+1. *Save & continue*
+
+![GoogleVision metadata group access](gv_metadata_group_access.png?raw=true)
+
 ## Get and configure the script
 
 Download [google_vision.py](google_vision.py?raw=true) to your computer. Modify the local script file:
